@@ -1,11 +1,11 @@
 {
   "A": {
     "steps": ["L3", "L4", "L5"],
-    "seconds": 42
+    "seconds": 37
   },
   "B": {
     "steps": ["L1", "L2", "L3", "L4", "L5"],
-    "seconds": 93
+    "seconds": 92
   },
   "C": {
     "steps": [],
@@ -17,6 +17,6 @@
   },
   "E": {
     "steps": ["L4", "L5"],
-    "seconds": 42
+    "seconds": 37
   }
 }
